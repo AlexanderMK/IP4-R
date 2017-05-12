@@ -1,7 +1,10 @@
-var die = 6;
-var dice = 2;
-var ary=[];
+window.addEventListener( 'DOMContentLoaded', function () {
 
-function dice_roll(die, dice,nu) {
-  
-}
+		const buttonRoolDice = document.querySelector( '.dice-roll' );
+
+    function rollDice () {
+      const diceSide1 = document.getElementById( 'dice-side-1' );
+        const diceSide2 = document.getElementById( 'dice-side-2' );
+        const status = document.getElementById( 'status' );
+
+        
