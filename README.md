@@ -1,6 +1,6 @@
 ### Pig-Dice
 
-A JavaScript web app that implements the game Pig Dice. Written with the help of JQuery, Mocha, Chai, and Bootstrap.
+A JavaScript web app that implements the game Pig Dice. Written with the help of JQuery, and Bootstrap.
 
 ### Usage
 
